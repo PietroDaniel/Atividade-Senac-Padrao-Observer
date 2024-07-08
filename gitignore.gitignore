@@ -1,0 +1,47 @@
+# Eclipse specific files #
+##########################
+.metadata/
+.classpath
+.project
+.settings/
+
+# Java specific files #
+#######################
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Maven specific files #
+########################
+target/
+
+# Gradle specific files #
+#########################
+.gradle/
+build/
+
+# OS generated files #
+######################
+.DS_Store
+Thumbs.db
+
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# IDEs and editors #
+####################
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
